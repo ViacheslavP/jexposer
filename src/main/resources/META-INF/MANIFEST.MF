@@ -1,0 +1,4 @@
+Agent-Class: org.viapivov.exposer.Main
+Premain-Class: org.viapivov.exposer.Main
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true

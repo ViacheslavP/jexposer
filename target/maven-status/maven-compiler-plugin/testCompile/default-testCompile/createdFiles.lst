@@ -1,0 +1,11 @@
+org/viapivov/exposer/ParamsTest$TestParams.class
+org/viapivov/exposer/server/TestServer.class
+org/viapivov/exposer/parser/RpcBridgeTest$A.class
+org/viapivov/exposer/advice/TargetClassTransforemerTest.class
+org/viapivov/exposer/server/ResponsiveClass.class
+org/viapivov/exposer/advice/TestClass.class
+org/viapivov/exposer/ParamsTest.class
+org/viapivov/exposer/parser/RpcBridgeTest$B.class
+org/viapivov/exposer/parser/RpcBridgeTest.class
+org/viapivov/exposer/advice/TargetClassTransforemerTest$1.class
+org/viapivov/exposer/parser/RpcBridgeTest$Foo.class
